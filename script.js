@@ -1,6 +1,7 @@
 // Typing Effect
 const text =
-  "Frontend Developer crafting modern and responsive web experiences.";
+"Computer Science Student | Full-Stack Web Developer | Problem Solver";
+
 
 const typingText =
   document.getElementById("typing-text");
